@@ -10,8 +10,8 @@
 
 <h2>Tecnologias utilizadas</h2>
 
-- ``JavaScript``
-- ``Cypress``
+- ``CSS 3``
+- ``HTML 5``
 
 
 <h2>Plataforma de testes</h2>
