@@ -1,7 +1,7 @@
 <h1 align="center">Lading Page</h1>
 
 <h2>Descrição do projeto</h2>
-<p>O projeto foi desenvolvido com objetivo de aprofundar conhecimentos com Flexbox no css, o projeto consiste em uma breve apresentação sobre mim com algumas das minhas plataformas</p>
+<p>O projeto foi desenvolvido com objetivo de aprofundar conhecimentos com Flexbox no css, o projeto consiste em uma breve apresentação sobre mim com algumas das minhas plataformas.</p>
 
 <h2>Status do Projeto</h2>
 <p align="left">
@@ -14,6 +14,6 @@
 - ``HTML 5``
 
 
-<h2>Plataforma de testes</h2>
-<p>Acesso a plataforma do aluraPic </p>
-<a href="https://3076-cypress-alurapic-front.vercel.app/#/home"> Site AluraPic</a>
+<h2>Design</h2>
+<p>Design criado pela Figma: </p>
+<a href="https://www.figma.com/file/DM4CkFZ9eyCqGcGdROFk8D/Untitled?type=design&mode=design&t=xbkjh49uNTkWlmlV-1"> Projeto Figma</a>
