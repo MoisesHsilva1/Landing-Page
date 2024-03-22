@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    height: 100vh;
+    color: white;
+    box-sizing: border-box;
+}
+.apresentacao {
+    margin: 10% 15%;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.apresentacao__conteudo {
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.apresentacao__conteudo__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;   
+}
+
+.titulo__destaque {
+    color: #482A47;
+    font-weight: 800;
+    font-family: "Inter", sans-serif;   
+}
+
+.apresentacao__texto {
+   font-size: 24px;
+    font-family: "Inter", sans-serif;
+}
+
+.apresentacao__plataformas {
+    display: flex;
+    justify-content: space-between;
+}
+
+.apresentacao__links {
+    background-color: #3b1f3a;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5 0;
+    color: white;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+}
