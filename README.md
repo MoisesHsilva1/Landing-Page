@@ -1,4 +1,4 @@
-<h1 align="center">Lading Page</h1>
+<h1 align="center">Landing Page</h1>
 
 <h2>Descrição do projeto</h2>
 <p>O projeto foi desenvolvido com objetivo de aprofundar conhecimentos com Flexbox no css, o projeto consiste em uma breve apresentação sobre mim com algumas das minhas plataformas.</p>
